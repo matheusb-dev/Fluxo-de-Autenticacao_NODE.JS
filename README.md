@@ -1,6 +1,6 @@
-# Controle de Usuários - Node.js
+# Fluxo de Autenticacao - Node.js
 
-Sistema de gerenciamento de usuários desenvolvido com Node.js, implementando boas práticas de arquitetura limpa e princípios SOLID.
+Sistema de Fluxo-de-Autenticacao desenvolvido com Node.js, implementando boas práticas de arquitetura limpa e princípios SOLID.
 
 ## Estrutura do Projeto
 
